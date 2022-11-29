@@ -3,11 +3,10 @@
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="710" tvg-name="Amé" tvg-logo="https://lh3.googleusercontent.com/-Wm0tIirwAaI/XzgSgfucd3I/AAAAAAAA4R4/P8FwD68fC00xVm39i-qNZewMWAqG2Be2wCK8BGAsYHg/s0/2020-08-15.jpg", Amé | DO
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="714" tvg-name="Canal 4 RD" tvg-logo="https://lh3.googleusercontent.com/-DRCZbw0zXRo/XzgVKWzJ0vI/AAAAAAAA4S8/MN8UboLlqsMR2RY5GjjfsL-VXE5X8Lw-gCK8BGAsYHg/s0/2020-08-15.png", Canal 4 RD | DO
-http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1121" tvg-name="Canal 8 Punta Cana TV" tvg-logo="https://i2.paste.pics/a157fcb0f29e1407aaca997c8564765a.png", Canal 8 Punta Cana TV | DO
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1027" tvg-name="Canal4RD" tvg-logo="https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png", Canal4RD | DO
+#EXTINF:-1 tvg-id="1027" tvg-name="Canal 4RD" tvg-logo="https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png", Canal4RD | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="735" tvg-name="Romana TV" tvg-logo="https://lh3.googleusercontent.com/-ODE5TSYEfC4/Xzgbjk1oJzI/AAAAAAAA4U0/-Fxv0oapcR0wViS7zHK7AnCr8mSOEeqEgCK8BGAsYHg/s0/2020-08-15.jpg", Romana TV | DO
