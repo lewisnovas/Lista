@@ -1,31 +1,23 @@
-#EXTM3U
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",DAN TV (720p)
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Digital 15 (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Fuego TV (720p) [Not 24/7]
-https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",GDMTV (720p) [Not 24/7]
-https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png" group-title="Undefined",LVM (480p)
-https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Megavision Canal 43 (480p) [Not 24/7]
-http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="Undefined",Microvision 10
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="Undefined",Microvision 10
-http://190.103.183.24:1935/live/MicroHD/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="Undefined",PH (720p)
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Punta Cana TV (720p) [Not 24/7]
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",San Isidro TV (360p) [Not 24/7]
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",TeleCibao (720p) [Not 24/7]
-http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",TeleCibao (720p) [Not 24/7]
-https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png" group-title="Undefined",Teleunion (480p)
-http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="Undefined",Vallevision (720p)
-http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U 
+#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="710" tvg-name="Amé" tvg-logo="https://lh3.googleusercontent.com/-Wm0tIirwAaI/XzgSgfucd3I/AAAAAAAA4R4/P8FwD68fC00xVm39i-qNZewMWAqG2Be2wCK8BGAsYHg/s0/2020-08-15.jpg", Amé | DO
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="714" tvg-name="Canal 4 RD" tvg-logo="https://lh3.googleusercontent.com/-DRCZbw0zXRo/XzgVKWzJ0vI/AAAAAAAA4S8/MN8UboLlqsMR2RY5GjjfsL-VXE5X8Lw-gCK8BGAsYHg/s0/2020-08-15.png", Canal 4 RD | DO
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1121" tvg-name="Canal 8 Punta Cana TV" tvg-logo="https://i2.paste.pics/a157fcb0f29e1407aaca997c8564765a.png", Canal 8 Punta Cana TV | DO
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1027" tvg-name="Canal4RD" tvg-logo="https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png", Canal4RD | DO
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="735" tvg-name="Romana TV" tvg-logo="https://lh3.googleusercontent.com/-ODE5TSYEfC4/Xzgbjk1oJzI/AAAAAAAA4U0/-Fxv0oapcR0wViS7zHK7AnCr8mSOEeqEgCK8BGAsYHg/s0/2020-08-15.jpg", Romana TV | DO
+http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="736" tvg-name="Sport Vision" tvg-logo="https://lh3.googleusercontent.com/-8F5NLNjrFTE/Xzgbrpf27LI/AAAAAAAA4U4/QWfRcHnhy0soWcP-Xpk7pQygEjmLx9QigCK8BGAsYHg/s0/2020-08-15.jpg", Sport Vision | DO
+https://5b59c7a47236a.streamlock.net/sportvision35tv/sportvision35tv/manifest.m3u8?PlaylistM3UCL
+#
+#EXTINF:-1 tvg-id="738" tvg-name="Teleantillas" tvg-logo="https://lh3.googleusercontent.com/--ZdvDPEZM6U/Xzgb3ZRAe4I/AAAAAAAA4VA/Bv5ESAdmZio3thWjXaoUaLXcPiXTFUuJgCK8BGAsYHg/s0/2020-08-15.jpg", Teleantillas | DO
+https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://lh3.googleusercontent.com/-8jIhN0E1Uv8/XzgduYfG7-I/AAAAAAAA4V8/pPr_hxQGka8sHGUQsbqv-GGRgDQtJeYXgCK8BGAsYHg/s0/2020-08-15.png", Teleuniverso Canal 29 | DO
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8?PlaylistM3UCL
